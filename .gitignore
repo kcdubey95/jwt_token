@@ -1,0 +1,14 @@
+
+*.log
+/idea
+/pytest_cache
+/venv
+/__pycache_
+.idea/workspace.xml
+__pycache__/main.cpython-312.pyc
+.idea/workspace.xml
+/.idea
+.env
+*.png
+*.db
+*.pyc
